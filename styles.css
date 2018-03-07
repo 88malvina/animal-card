@@ -1,1 +1,20 @@
+/* add your CSS here */
 
+ .header {
+	border: 2px solid yellow;
+	padding: 20px;
+	margin-left: 35%;
+	margin-right: 35%;
+	width: 340px;
+}
+
+ .middle {
+	border: 2px solid yellow;
+	padding: 20px;
+}
+ .img {
+	position: center;
+}
+ li {
+	list-style-type: none;
+}
